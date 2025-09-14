@@ -16,10 +16,10 @@ python -m src.train --pkl_path data/RML2016.10a_dict.pkl --epochs 40 --batch 512
 
 📂 Repo Layout
 
-src/            → models, data pipeline, training script
-notebooks/      → Colab notebook
-results/        → plots and logs
-data/           → dataset (not tracked)
+-src/            → models, data pipeline, training script
+-notebooks/      → Colab notebook
+-results/        → plots and logs
+-data/           → dataset (not tracked)
 
 📜 License
 
