@@ -17,3 +17,10 @@ This project implements a supervised ML pipeline in *TensorFlow/Keras* to classi
 - scikit-learn
 - matplotlib
 
+## 📊 Results
+
+Accuracy vs. SNR on the test set:
+
+![ACCvsSNR](https://github.com/user-attachments/assets/7e7e06e4-8e31-425e-a8c3-c4ac6e3ab4d7)
+
+
