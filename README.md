@@ -47,7 +47,7 @@ The model achieves higher accuracy at higher SNRs, as expected in wireless syste
 
 
 
-- At **high SNR (>10 dB)** → >90% accuracy.  
+- At **high SNR (>10 dB)** → >70% accuracy.  
 - At **low SNR (<0 dB)** → accuracy drops due to noise corruption.  
 
 ---
